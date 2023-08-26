@@ -1,0 +1,14 @@
+{
+  "name": "repro-tsx-line-no",
+  "version": "1.0.0",
+  "main": "index.test.ts",
+  "repository": "https://www.github.com/thesmart/repro-tsx-line-no",
+  "author": "John Smart",
+  "license": "MIT",
+  "private": false,
+  "type": "module",
+  "dependencies": {
+    "@types/node": "20",
+    "tsx": "^3.12.7"
+  }
+}
